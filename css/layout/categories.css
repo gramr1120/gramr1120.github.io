@@ -7,7 +7,7 @@
 }
 .category-container:after {
   content: "";
-  background-image: url("/assets/images/Hexo-Theme-MEOW.png");
+  background-image: url("/assets/images/pancakes.png");
   background-size: cover;
   position: absolute;
   bottom: 0;
