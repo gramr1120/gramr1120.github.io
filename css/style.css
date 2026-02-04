@@ -57,7 +57,7 @@ body[data-mode='dark'] {
   --font-color-light-2: #808090;
   --font-color-light-3: #5b5b67;
   --link-hover-font-color: #2d2d2d;
-  --banner-background: url("/assets/images/dark.jpg");
+  --banner-background: url("/assets/images/night.jpg");
   --banner-font-color: #e0e0e0;
   --nav-background-color: transparent;
   --card-border-color: #3b3b3b;
@@ -720,7 +720,7 @@ hr {
   overflow: visible;
 }
 hr:before {
-  content: '🐈';
+  content: '🐟';
   position: absolute;
   top: -0.5rem;
   left: 5%;
@@ -1294,7 +1294,7 @@ body[data-mode="dark"] .home-article-info .icon {
 }
 .archive-post[archive-style="normal"]:after {
   content: "";
-  background-image: url("/assets/images/Hexo-Theme-MEOW.png");
+  background-image: url("/assets/images/chess_pawn-bird.png");
   background-size: cover;
   position: absolute;
   top: 0.5rem;

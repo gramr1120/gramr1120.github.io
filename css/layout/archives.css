@@ -67,7 +67,7 @@
 }
 .archive-post[archive-style="normal"]:after {
   content: "";
-  background-image: url("/assets/images/Hexo-Theme-MEOW.png");
+  background-image: url("/assets/images/chess_pawn-bird.png");
   background-size: cover;
   position: absolute;
   top: 0.5rem;
